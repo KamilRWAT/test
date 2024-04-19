@@ -2,7 +2,12 @@ Nagłówek
 sprawdzenie 1
 sprawdzenie 2
 edycja
-nr 123
 oczyszczenie
+123
 nr 456
+oczyszczenie tu było
 nr 789
+nowe linijki 0
+nowe linijki 1
+nowe linijki 2
+nowe linijki 3
