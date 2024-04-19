@@ -3,13 +3,6 @@ Nagłówek
 sprawdzenie 1
 
 edycja
-
-edycja 2
-jeszcze tu linia
-sprawdzenie 2
-
-test1
 test2
-test2 i tu
 
-jeszcze tu
+czyszczenie
