@@ -1,12 +1,9 @@
 Nagłówek
-
 sprawdzenie 1
 sprawdzenie 2
-
-
 edycja
-
-test1
-test2
-
+123
 oczyszczenie
+
+123
+456
