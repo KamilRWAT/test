@@ -1,8 +1,12 @@
 Nagłówek
 
 sprawdzenie 1
+sprawdzenie 2
+
 
 edycja
+
+test1
 test2
 
-czyszczenie
+oczyszczenie
