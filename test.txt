@@ -8,4 +8,6 @@ sprawdzenie 2
 
 test1
 test2
-test2
+test2 i tu
+
+jeszcze tu
