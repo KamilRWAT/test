@@ -1,9 +1,11 @@
 Nagłówek
+
 sprawdzenie 1
 sprawdzenie 2
 edycja
-123
-oczyszczenie
 
-123
-456
+oczyszczenie tu było
+
+nowe linijki 1
+nowe linijki 2
+nowe linijki 3
