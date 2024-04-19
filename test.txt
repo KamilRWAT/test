@@ -2,8 +2,7 @@ Nagłówek
 sprawdzenie 1
 sprawdzenie 2
 edycja
-123
+nr 123
 oczyszczenie
-
-123
-456
+nr 456
+nr 789
